@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there, I'm Rajesh Patra! 👋<br><br>I'm a passionate software developer with a love for creating efficient, scalable, and user-friendly applications.<br>My expertise spans across front-end and back-end technologies, such as JavaScript, React, Next.js, Magento, etc.<br>I thrive on solving complex problems and am always eager to learn and adopt new technologies.<br><br>When I'm not coding, you can find me exploring open-source projects, learning new technologies, or working on exciting side projects.<br>I believe in continuous improvement and enjoy collaborating with like-minded individuals to bring ideas to life.<br><br>Feel free to reach out if you want to discuss projects, ideas, or just chat about tech!
+Hi there, I'm Rajesh Patra! 👋<br><br>I'm a passionate software developer with a love for creating efficient, scalable, and user-friendly applications.<br>My expertise spans both front-end and back-end technologies, including JavaScript, React, Next.js, Magento, and more.<br>I thrive on solving complex problems and am always eager to learn and adopt new technologies.<br><br>When I'm not coding, you'll likely find me diving into open-source projects, exploring the latest tech trends, or working on innovative side projects. I'm also a big fan of gaming and prefer the PlayStation console for my gaming adventures.<br><br>I believe in continuous improvement and love collaborating with others to bring creative ideas to life. Feel free to connect if you'd like to chat about projects, share ideas, or talk tech!
 
 
 ## 🌐 Socials:
